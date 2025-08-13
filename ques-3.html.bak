@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <mata name="viewport" content="width=device-width,initial-scale=1.0">
+      
+       <title>my details</title>
+</head>
+<body>
+    <div>
+         <h1>OM JIGNESHKUMAR PATEL</h1>
+         <p>my name is om patel.i graduated in BA psychology from gujarat university and right now i doing "pgdca" from             gujarat university.</p>
+         <p>my hobbies: </p>
+         <ul>
+	       <li>cricket</li>
+               <li>reading books</li>
+               <li>playing musical entsuments</li>
+         </ul>
+         <p>my favorite books:</p>
+         <ol>
+               <li>0 to 1 milion</li>
+               <li>rich dad poor dad</li>
+               <li>rich dad poor dad</li>
+               <li>the alchemist by paulo coelho</li>
+         </ol>        	 
+     </div>    
+</body>
+</html>

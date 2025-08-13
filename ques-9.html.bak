@@ -1,0 +1,56 @@
+<html>
+<head>
+     <title> student bio-data </title>
+</head>
+<body>
+    <h1><u>students bio-data</u></h1>
+	
+	<p><b>name:</b><i>om patel</i></p>
+	<p><b>age:</b>21</p>
+	<p><b>gender:</b>male</p>
+	<p><b>course:</b><mark>bechelors of computer application</mark></p>
+	<p><b>college:</b> <i>gujarat university</i> </p>
+	<p><b>email:</b>ompatel0123456@gmail.com</p>
+	
+	<h2><u>Educational Qualifications</u></h2>
+	<table border="1" cellpadding="8">
+	    <tr>
+		  <th>Qualifications</th>
+		  <th>institution</th>
+		  <th>year</th>
+		  <th>percentage</th>
+		</tr>
+		
+		<tr>
+		   <td>Graduated</td>
+		   <td>L.D.arts collage</td>
+		   <td>2024</td>
+		   <td>7.08</td>
+		</tr>
+		
+		<tr>
+		   <td>HSC</td>
+		   <td>seth c.n.vidhiyalaya</td>
+		   <td>2021</td>
+		   <td>71.65%</td>
+		</tr>
+		
+		<tr>
+		   <td>ssc</td>
+		   <td>seth c.n.vidhiyalaya</td>
+		   <td>2019</td>
+		   <td>69.50%</td>
+		</tr>
+	</table>
+	
+	<p><b>Hobbies:</b>
+	               <i>reading</i>
+				   <i>programming</i>
+				   <i>speaking</i>
+	</p>
+	
+	<p>
+	<mark>note:</mark>om is an enthusiastic learner and a quick problem solver.
+	</p>
+</body>
+</html>
