@@ -1,2 +1,2 @@
 # ITWD-
-assignement
+assignment
